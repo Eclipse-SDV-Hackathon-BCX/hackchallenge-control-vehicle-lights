@@ -13,6 +13,8 @@ Use Eclipse [KUKSA.val databroker](https://github.com/eclipse/kuksa.val/tree/mas
 to control the lights or read their state.
 Alternatively, the service can be accessed directly from Rust, Java or Kotlin applications.
 
+[./SETUP.md](Challenge details)
+
 ## Integration with other challenges
 
 Our hack challenge is intended to *complement* other hack challenges, for example [Passenger welcome](https://github.com/Eclipse-SDV-Hackathon-BCX/hackchallenge-passenger-welcome) or [Driving Score](https://github.com/Eclipse-SDV-Hackathon-BCX/hackchallenge-driving-score). For example, you can add blinking sequences to these challenges. Since we use [KUKSA.val databroker](https://github.com/eclipse/kuksa.val/tree/master/kuksa_databroker#readme) as a mediator,
