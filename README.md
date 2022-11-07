@@ -13,7 +13,7 @@ Use Eclipse [KUKSA.val databroker](https://github.com/eclipse/kuksa.val/tree/mas
 to control the lights or read their state.
 Alternatively, the service can be accessed directly from Rust, Java or Kotlin applications.
 
-[./SETUP.md](Challenge details)
+[Challenge details](./SETUP.md)
 
 ## Integration with other challenges
 
